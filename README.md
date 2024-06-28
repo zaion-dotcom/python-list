@@ -1,0 +1,2 @@
+# python-list
+exercises list
